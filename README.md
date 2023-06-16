@@ -1,4 +1,4 @@
-# Language Translation with deep learning 
+# Language Translation using deep learning 
 
 ## Project purpose
 
